@@ -4,7 +4,8 @@ spring:
       client:
         registration:
           google:
-
+            client-id: 880021688016-58kkgk571khpvo8angif4s5g7vjn90hb.apps.googleusercontent.com
+            client-secret: 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
       resourceserver: 
         jwt:
           issuer-uri: https://accounts.google.com
